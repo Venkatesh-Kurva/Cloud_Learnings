@@ -1,2 +1,2 @@
 # Cloud_Learnings
-information and code pertaining to different cloud platforms
+Information and code pertaining to cloud platforms like AWS, Azure, GCP, etc.
